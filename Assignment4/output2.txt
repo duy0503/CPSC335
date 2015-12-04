@@ -1,0 +1,51 @@
+String <Algorithm Engineering> will be placed at t[3][0]
+String <California> will be placed at t[2][0]
+String <State University> will be placed at t[13][0]
+String <Fullerton> will be placed at t[16][0]
+String <College of Engineering and Computer Science> will be placed at t[11][0]
+String <Department of Computer Science> will be placed at t[10][0]
+String <Dynamic Programming> will be placed at t[8][0]
+String <Monge Properties> will be placed at t[0][0]
+String <String Matching> will be placed at t[11][0] replacing <College of Engineering and Computer Science>
+String <College of Engineering and Computer Science> will be placed at t[14][1]
+String <Matrix Searching> will be placed at t[15][0]
+String <Optimal Tree Construction> will be placed at t[8][0] replacing <Dynamic Programming>
+String <Dynamic Programming> will be placed at t[13][1]
+String <Online algorithms> will be placed at t[9][0]
+String <emphasis on> will be placed at t[0][0] replacing <Monge Properties>
+String <Monge Properties> will be placed at t[15][1]
+String <Server Problem> will be placed at t[4][0]
+String <Some related problem> will be placed at t[12][0]
+String <Self-Stabilization> will be placed at t[7][0]
+String <One of the greatest > will be placed at t[0][0] replacing <emphasis on>
+String <emphasis on> will be placed at t[6][1]
+String <mysteries in science> will be placed at t[9][0] replacing <Online algorithms>
+String <Online algorithms> will be placed at t[1][1]
+String <Quantum Nature of Universe> will be placed at t[4][0] replacing <Server Problem>
+String <Server Problem> will be placed at t[1][1] replacing <Online algorithms>
+String <Online algorithms> will be placed at t[9][0] replacing <mysteries in science>
+String <mysteries in science> will be placed at t[5][1]
+String <macroscopic quantum objects> will be placed at t[6][0]
+String <Greatest mysteries> will be placed at t[4][0] replacing <Quantum Nature of Universe>
+String <Quantum Nature of Universe> will be placed at t[7][1]
+String <In physics and> will be placed at t[7][0] replacing <Self-Stabilization>
+String <Self-Stabilization> will be placed at t[7][1] replacing <Quantum Nature of Universe>
+String <Quantum Nature of Universe> will be placed at t[4][0] replacing <Greatest mysteries>
+String <Greatest mysteries> will be placed at t[3][1]
+String <astronomy > will be placed at t[7][0] replacing <In physics and>
+String <In physics and> will be placed at t[7][1] replacing <Self-Stabilization>
+String <Self-Stabilization> will be placed at t[7][0] replacing <astronomy >
+String <astronomy > will be placed at t[13][1] replacing <Dynamic Programming>
+String <Dynamic Programming> will be placed at t[8][0] replacing <Optimal Tree Construction>
+String <Optimal Tree Construction> will be placed at t[8][1]
+String <are known> will be placed at t[13][0] replacing <State University>
+String <State University> will be placed at t[11][1]
+String <to scientists> will be placed at t[8][0] replacing <Dynamic Programming>
+String <Dynamic Programming> will be placed at t[13][1] replacing <astronomy >
+String <astronomy > will be placed at t[7][0] replacing <Self-Stabilization>
+String <Self-Stabilization> will be placed at t[7][1] replacing <In physics and>
+String <In physics and> will be placed at t[7][0] replacing <astronomy >
+String <astronomy > will be placed at t[13][1] replacing <Dynamic Programming>
+String <Dynamic Programming> will be placed at t[8][0] replacing <to scientists>
+String <to scientists> will be placed at t[16][1]
+String <Dynamic decision making> will be placed at t[1][0]
