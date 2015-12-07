@@ -16,8 +16,8 @@ const int tablesize = 17;
 // combine the two 1-dimensional table into one 2-dimensional table           
 char  t[tablesize][2][255];
 
-// compute the hash functions
-size_t f(char*, size_t);
+// compute the hash value
+size_t get_hash_value(char*, size_t);
 
 // place a string in one of the hash tables
 bool place_in_hash_tables (char*);
@@ -91,7 +91,7 @@ bool place_in_hash_tables (char *s) {
   
   placed = false;
 
-  pos = f(temp_s, index);
+  pos = get_hash_value(temp_s, index);
 
   while((!placed ) && (counter < 2*tablesize)) {
 
@@ -121,7 +121,7 @@ bool place_in_hash_tables (char *s) {
       if ( index == 0 ) index = 1;
       else index = 0;
       // CALCULATE IN pos THE HASH VALUE FOR temp_s
-      pos = f(temp_s, index);
+      pos = get_hash_value(temp_s, index);
       counter ++;
     }
   }
@@ -130,7 +130,7 @@ bool place_in_hash_tables (char *s) {
 
 
 // compute the hash functions
-size_t f(char *s, size_t index) {
+size_t get_hash_value(char *s, size_t index) {
 // s is the string (the key) to which we apply the hash function
 // index indicates which hash function will be used
 // index == 0 means the first hash function
